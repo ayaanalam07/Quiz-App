@@ -1,0 +1,34 @@
+.body{
+    background-color: #cbcbff;
+}
+
+.margin{
+    margin: 0px 7px 0px;
+}
+
+.cont{
+    position: relative;
+    width: 400px;
+    height: 400px;
+    top: 10%;
+    left: 10%;
+    margin: 80px 330px 20px;
+    box-shadow: 10px 10px 10px #555;
+    filter: drop-shadow(10px 10px 10px #555);
+    border: 1px solid #000;
+}
+.cont2{
+    position: relative;
+    width: 400px;
+    height: 300px;
+    top: 10%;
+    left: 10%;
+    margin: 80px 330px 20px;
+    box-shadow: 10px 10px 10px #555;
+    filter: drop-shadow(10px 10px 10px #555);
+    border: 1px solid #000;
+}
+label{
+    font-family: sans-serif;
+}
+
