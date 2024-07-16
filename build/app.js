@@ -30,7 +30,7 @@ event.preventDefault()
             
             else{
                 heading02.style.padding = "1rem";
-                alert("YOUR EMAIL PASSWORD IS NOT CORRECT") ;
+                heading02.innerHTML ="YOUR EMAIL PASSWORD IS NOT CORRECT" ;
                 }
     })
             

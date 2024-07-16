@@ -47,7 +47,6 @@ const renderQuestion = (arr) => {
 };
 
 
-
 btn.addEventListener("click", () => {
   const choice = document.querySelectorAll(".choice");
   div.innerHTML = "";
